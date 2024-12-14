@@ -1,0 +1,6 @@
+[submodule "frontend-file"]
+	path = frontend-file
+	url = https://github.com/Anteh9/Event_Management_System_Frontend.git
+[submodule "Backend-file"]
+	path = Backend-file
+	url = https://github.com/Anteh9/Event_Management_System_Backend.git
